@@ -12,6 +12,8 @@ This repository contains the static website for Michelle's Tutoring. It works wi
 
 ## Preview the website
 
+Tutoring resources are stored separately in `tutoring-materials/` so the website files can remain at the repository root for GitHub Pages.
+
 The simplest option is to double-click `index.html`. It will open in your default web browser.
 
 For a more accurate local preview, open PowerShell in this folder and run:
