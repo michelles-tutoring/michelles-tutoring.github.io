@@ -1,0 +1,5 @@
+# Local presentation build and quality-check files
+.codex-build/
+*.pptx.inspect.ndjson
+Grade_6_Powers_and_Exponents/
+
